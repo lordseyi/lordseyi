@@ -1,7 +1,7 @@
 
-- 👀 I’m interested in financial data analytics.
+- I’m interested in financial data analytics.
 - 🌱I'm skilled in the usage of advanced data analytics progamming tools such asy python, Excel and R.
-- 💞️ I’m looking to collaborate on financail data analytics projets.
+- 💻I’m looking to collaborate on financail data analytics projets.
 - 📫 How to reach me michealoluwaseyi97@gmail.com
 
 <!---
