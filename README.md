@@ -1,4 +1,5 @@
-
+Hi,👋🏿
+My name is micheal. i'm a financial data analyst and BI professional. i love working on various financial data projects and also love meeting and working with new people on projects. 
 - 👀 I’m interested in financial data analytics.
 - 🌱I'm skilled in the usage of advanced data analytics progamming tools such asy python, Excel and R.
 - 💞️ I’m looking to collaborate on financail data analytics projets.
